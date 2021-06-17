@@ -140,5 +140,3 @@ To disable SMEP cr4 the 20th bit in cr4 should be switched to 0, which correspon
 [+] CR4 bin: 0000000000000000000000000000000000000000001101010000011011111000
 ```
 
-
-So now let's bring everthing together. tbc...
